@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CreateJWTWebToken</string>
+    <string name="action_settings">Settings</string>
+    <string name="first_fragment_label">Token Fragment</string>
+    <string name="token">Token</string>
+</resources>
